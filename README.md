@@ -1,6 +1,6 @@
 ## Movie List
 
-:point_right: 快速檢視電影，並可建立至收藏清單
+:point_right: 快速檢視電影，並可建立至收藏清單 [ 點我看範例 Click me! ](https://yaahsin.github.io/)
 
 **內容說明**
 1. 包含兩組 (html + js)，分別處理主頁(home)及收藏頁(favorite)，一組css，微調樣式
